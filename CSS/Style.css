@@ -1,0 +1,302 @@
+header .container {
+    background-color: #e3551e;
+    height: 200px;
+}
+
+.box {
+    margin-left: 120px;
+    color: white;
+    font-size: 20px;
+}
+
+.box1 a {
+    font-size: 20px;
+    color: white;
+    padding-left: 30px;
+    text-decoration: none;
+}
+
+.box2 {
+    color: white;
+    text-align: center;
+    font-size: 48px;
+}
+
+.box3 {
+    text-align: center;
+    color: white;
+}
+
+.box4 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.box4 input {
+    border: none;
+    color: white;
+    border-radius: 2px;
+}
+
+.btntex {
+    background-color: #983b16;
+}
+
+.box5 p {
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.box5 h5 {
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.box6 {
+    padding-top: 80px;
+    display: flex;
+    gap: 20px;
+}
+
+.texfirst {
+    margin-top: 30px;
+}
+
+.boxnew {
+    padding-top: 20px;
+}
+
+.boxnew input {
+    margin-left: 20px;
+}
+
+.box7 {
+    background-color: #e3551e;
+    height: 20px;
+    width: 50px;
+    margin-top: 130px;
+    margin-left: 50px;
+}
+
+.box8 {
+    background-color: #e3551e;
+    height: 50px;
+    width: 50px;
+    margin-top: 100px;
+}
+
+.box9 {
+    background-color: #e3551e;
+    height: 100px;
+    width: 50px;
+    margin-top: 50px;
+}
+
+.box10 {
+    background-color: #e3551e;
+    height: 150px;
+    width: 50px;
+}
+
+.garygap {
+    margin-top: 50px;
+    background-color: rgba(128, 128, 128, 0.144);
+    height: 80px;
+}
+
+.servicelogo {
+    margin-top: 50px;
+}
+
+.servicelogo h5 {
+    text-align: center;
+}
+
+.servicelogo p {
+    text-align: center;
+}
+
+
+
+.Alllogo {
+    margin-left: 200px;
+    color: #e3551e;
+    font-size: 70px;
+    display: flex;
+    gap: 350px;
+}
+
+.Alllogo p {
+    color: black;
+    font-size: 15px;
+}
+
+.garygap1 {
+    background-color: rgba(128, 128, 128, 0.144);
+    height: 80px;
+}
+
+.Alllogo1 {
+    margin-top: 50px;
+    margin-left: 200px;
+    color: #e3551e;
+    font-size: 70px;
+    display: flex;
+    gap: 350px;
+}
+
+.Alllogo1 p {
+    color: black;
+    font-size: 15px;
+}
+
+.tspan {
+    display: flex;
+    gap: 250px;
+    margin-left: 170px;
+    color: rgba(0, 0, 0, 0.397);
+}
+
+.box11 {
+    margin-top: 50px;
+    background-color: rgba(128, 128, 128, 0.144);
+    height: 900px;
+}
+
+.box11 h5 {
+    Padding-top: 50px;
+    text-align: center;
+}
+
+.Pro {
+    Padding-top: 30px;
+    text-align: center;
+}
+
+.imgbox {
+    display: flex;
+    gap: 20px;
+    margin-left: 110px;
+}
+
+.imgbox img {
+    margin-bottom: 5px;
+    width: 350px;
+    height: 300px;
+}
+
+.colorwhite {
+    background-color: white;
+    height: 400px;
+}
+
+.countryset {
+    padding-top: 10px;
+}
+
+.colorwhite p {
+    text-align: center;
+}
+
+.fontset {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.fontset p {
+    margin-top: 50px;
+    width: 33%;
+    margin-left: 430px;
+}
+
+.Pricing {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.box12 {
+    width: 25%;
+    height: 450px;
+    background-color: white;
+    border: #e3551e solid;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.box012 {
+    font-size: 30px;
+    color: white;
+    line-height: 100px;
+    width: 100%;
+    height: 100px;
+    background-color: #e3551e;
+}
+
+.border12 {
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.323);
+}
+
+.pricelog {
+    font-size: 30px;
+}
+
+.pricedown {
+    font-size: 10px;
+    line-height: 1px;
+}
+
+.box12 input {
+    background-color: #e3551e;
+    border: none;
+    border-radius: 2px;
+    height: 30px;
+    margin-top: 40px;
+}
+
+.contactbox h3 {
+    margin-top: 50px;
+    background-color: rgba(128, 128, 128, 0.144);
+
+}
+
+.contactbox iframe {
+    margin-top: 50px;
+    width: 100%;
+    height: 600px;
+}
+
+textarea {
+    width: 600px;
+    height: 100px;
+    color: gray;
+}
+
+
+.boxtextarea {
+    margin-left: 500px;
+    margin-top: 20px;
+    float: right;
+}
+
+.contactbtn {
+    margin-left: 1030px;
+}
+
+.box13 input {
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.box13 {
+    margin-top: 50px;
+}
+
+.box14 {
+    margin-right: 120px;
+    float: right;
+}
+
+.left123 {
+    float: left;
+}
